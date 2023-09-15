@@ -1,0 +1,10 @@
+.navtitle {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+@media (min-width: 1399px) {
+  .navtitle {
+    font-size: 26px !important;
+  }
+}

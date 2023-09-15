@@ -1,0 +1,59 @@
+.container {
+  width: 100%;
+  display: flex;
+
+  justify-content: center;
+  margin-top: 10rem;
+}
+
+.stepContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.line {
+  margin-left: 17.5px;
+  height: 50px;
+  border-left: 1px solid rgb(120, 121, 120);
+}
+
+.step {
+  background-color: rgb(153, 153, 153);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.stepHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.text {
+  flex-grow: 1;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.subTitle {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.greenbg {
+  background-color: green;
+}
+
+.greenborder {
+  border-color: green;
+}

@@ -1,0 +1,278 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.greenCardContainer {
+  display: flex;
+  margin: 30px 0;
+
+  .infoCard {
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1.25rem;
+
+    width: 554px;
+    border-radius: 13.723px;
+
+    border: 1.792px solid var(--everything-green, #1b9876);
+    background: #f6fff7;
+
+    background-image: url(/src/assets/svg/green-speed.svg);
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+    background-size: auto;
+
+    display: flex;
+    align-items: center;
+
+    .textContain {
+      align-items: flex-start;
+      justify-content: unset;
+
+      text-align: left;
+    }
+  }
+}
+
+.greenScore {
+  color: #00a04f;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.infoCardContainer {
+  max-width: 75rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3rem;
+}
+
+.infoCard,
+.rankCard {
+  border: 1.792px solid var(--primary-green);
+
+  width: 100%;
+  height: 9.25rem;
+
+  border-radius: 15px;
+  padding: 2.75rem 0.5rem 1rem;
+  text-align: center;
+
+  position: relative;
+  background-color: white;
+  box-shadow: 0px 3.5835254192352295px 14.334101676940918px 1.1945085525512695px
+    rgba(0, 0, 0, 0.04);
+
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.rankCard {
+  padding: 2.75rem 0.5rem 1.5rem;
+}
+
+.infoCardIcon {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: var(--primary-green);
+  padding: 13px;
+  border-radius: 50%;
+  height: 4rem;
+  width: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.infoCardIconUnfilled {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid var(--primary-green);
+  background-color: white;
+  padding: 13px;
+  border-radius: 50%;
+  height: 3.2rem;
+  width: 3.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.infoCardTitle {
+  order: 1;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.infoCardDescription {
+  width: 100%;
+  max-width: 13rem;
+  font-size: 13px;
+  color: #828282;
+  // opacity: 0.9;
+}
+
+.textContain {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.midSectionContainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  max-width: 75rem;
+}
+
+.midSection {
+  border-radius: 18px;
+
+  background: #f6fff7;
+
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 2rem;
+
+  background-image: url(/src/assets/svg/leaf-carbon.svg);
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: 140px 50px;
+  box-shadow: 0px 23.888887405395508px 47.777774810791016px 0px #b4b4b440;
+
+  @media (max-width: 767px) {
+    background-image: unset;
+  }
+}
+
+.midTextOne {
+  color: #242424;
+  font-size: 14px;
+  line-height: 32px;
+}
+
+.midTextTwo {
+  color: #242424;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.rankSection {
+  background-color: white;
+  border-radius: 15px;
+  padding: 32px 26px;
+  max-width: 75rem;
+}
+
+.rankCardContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3rem;
+}
+
+.rankTitle {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-bottom: 1.25rem;
+}
+
+.rankCardTitle {
+  order: 1;
+  font-weight: 500;
+  font-size: 1rem;
+  color: #242424;
+  text-align: center;
+  line-height: 32.742px;
+  letter-spacing: -0.226px;
+}
+
+.number {
+  font-size: 45px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--primary-green);
+  line-height: 32.742px;
+  letter-spacing: -0.226px;
+}
+
+@media screen and (max-width: 1280px) {
+  .infoCardContainer,
+  .midSectionContainer,
+  .rankCardContainer {
+    gap: 1rem;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .midSectionContainer {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .rankCardContainer,
+  .infoCardContainer {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem 1.5rem;
+  }
+
+  .greenCardContainer {
+    .infoCard {
+      width: 100%;
+      padding: 1.5rem;
+    }
+  }
+
+  .infoCard,
+  .rankCard {
+    height: 100%;
+  }
+
+  .textContain {
+    gap: 3px;
+  }
+
+  .infoCardIcon {
+    width: 3.2rem;
+    height: 3.2rem;
+  }
+
+  .number {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .infoCard,
+  .rankCard {
+    height: 9.25rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .rankCardContainer,
+  .infoCardContainer {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .infoCard,
+  .rankCard {
+    height: 100%;
+  }
+}

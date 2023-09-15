@@ -1,0 +1,48 @@
+/* SpinningAnimation.css */
+
+.spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+}
+
+.spinner {
+    border: 20px solid #1b987633;
+    border-top: 20px solid var(--primary-green);
+    border-radius: 50%;
+    width: 190px;
+    height: 190px;
+    animation: spin 1s linear infinite;
+}
+
+.spinning-stop {
+    border: 20px solid var(--primary-green);
+}
+
+.spinner-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes anty-spin {
+    0% {
+        transform: rotate(360deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}

@@ -1,0 +1,169 @@
+.header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0);
+  // height: 3.5rem;
+  padding-bottom: 20px !important;
+  border-bottom: 0.5px solid #1b987669;
+  @media screen and (max-width: 700px) {
+    flex-direction: column;
+    align-items: unset;
+  }
+}
+
+.urlSection {
+  color: #828282;
+}
+
+.pageTitle {
+  display: flex;
+  flex-direction: column;
+}
+
+.pageTitle h2 {
+  font-size: 26px;
+  color: #242424;
+  font-weight: 700;
+}
+
+.subHeader {
+  text-decoration: underline;
+  margin-top: -6px;
+}
+
+.content {
+  height: fit-content;
+  padding-top: 14px;
+}
+
+.appPrimaryButton {
+  width: fit-content !important;
+  padding: 8px 14px !important;
+  border: 1px solid var(--primary-green);
+}
+
+.secondaryWrapper,
+.customButtonWrapper {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  label {
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+}
+
+.customButtonWrapper {
+  label {
+    color: var(--primary-green);
+  }
+}
+
+.sideBar {
+  background-color: #091e21 !important;
+  min-height: 100vh;
+  height: inherit;
+}
+
+.agencyMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--primary-green);
+  padding: 0 16px;
+  margin-bottom: 10px;
+}
+
+.agency {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 700;
+  padding-left: 10px;
+}
+
+.agencyMenu > div {
+  cursor: pointer;
+}
+
+.svgIcon {
+  /* Add your SVG icon styles */
+  vertical-align: middle;
+  /* Vertically align the SVG icon */
+  margin-right: 8px;
+  /* Add some spacing between SVG icon and text */
+}
+
+.justify {
+  justify-content: center;
+}
+
+.menuContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.landingBg {
+  height: 'fit-content';
+  padding: 40px 40px 20px 30px;
+  background: #f2f2f2;
+  background-image: url(/src/assets/svg/leaf-landing-bg.svg);
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-attachment: fixed;
+  transition: margin-left 0.2s ease-in-out;
+  /* background-size: 140px 65px; */
+  @media (max-width: 1300px) {
+    background-image: unset;
+    padding: 1rem;
+    padding-top: 2.5rem;
+  }
+}
+
+.sidebarWrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 100%;
+}
+
+.collapse {
+  color: white;
+  font-size: 30px;
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+
+.jc {
+  justify-content: center;
+}
+
+.collapseLogo {
+  width: 3rem;
+  aspect-ratio: 1/ 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: bold;
+  letter-spacing: 0.05rem;
+  background-color: #1b9876;
+  border-radius: 6px;
+  color: white;
+  align-self: center;
+}
+
+.logoWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

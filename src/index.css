@@ -1,0 +1,92 @@
+:root {
+  --primary-green: #1b9876;
+  --primary-color: #1b9876;
+  --dashboard-content-height: calc(100vh - 3.5rem - 3rem);
+  /* Your desired primary color */
+}
+
+button {
+  cursor: pointer;
+}
+
+.ant-menu-item-selected {
+  background-color: rgba(219, 250, 215, 0) !important;
+  color: var(--primary-green) !important;
+}
+
+.ant-menu-submenu-selected > .ant-menu-submenu-title,
+:where(.css-dev-only-do-not-override-ri1jxi).ant-menu-dark
+  > .ant-menu
+  .ant-menu-submenu-selected
+  > .ant-menu-submenu-title {
+  color: var(--primary-green) !important;
+}
+
+.ant-layout-sider {
+  background-color: #091e21 !important;
+  /* Your desired background color */
+}
+
+.ant-btn {
+  padding: 5px 10px !important;
+  width: fit-content !important;
+  height: fit-content !important;
+  border-radius: 5px !important;
+  font-size: 16px !important;
+}
+
+.ant-btn,
+.ant-btn:hover,
+.ant-btn:active {
+  border: 1px solid var(--primary-green);
+}
+
+:where(.css-dev-only-do-not-override-byeoj0).ant-btn-default:not(:disabled):not(
+    .ant-btn-disabled
+  ),
+:where(.css-dev-only-do-not-override-byeoj0).ant-btn-default:not(:disabled):not(
+    .ant-btn-disabled
+  ):active,
+:where(.css-dev-only-do-not-override-byeoj0).ant-btn-default:not(:disabled):not(
+    .ant-btn-disabled
+  ):hover {
+  color: var(--primary-green);
+  border: 1px solid var(--primary-green);
+}
+
+:where(.css-dev-only-do-not-override-byeoj0).ant-radio-wrapper
+  .ant-radio-checked
+  .ant-radio-inner {
+  border-color: var(--primary-green) !important;
+  background-color: var(--primary-green) !important;
+}
+
+.ant-radio-wrapper:hover
+  :where(.css-dev-only-do-not-override-byeoj0).ant-radio-wrapper,
+:where(.css-dev-only-do-not-override-byeoj0).ant-radio-wrapper:hover
+  .ant-radio-inner {
+  border-color: var(--primary-green) !important;
+}
+
+#input .ant-input {
+  border: 0px 0px 2px 0px solid var(--primary-color);
+  border-bottom: 1px solid var(--primary-green);
+  width: 60%;
+}
+
+.ant-input::placeholder {
+  font-size: 12px !important;
+}
+
+.ant-btn {
+  width: 100% !important;
+}
+
+:where(.css-dev-only-do-not-override-byeoj0).ant-layout
+  .ant-layout-sider-trigger {
+  background-color: #091e21 !important;
+}
+
+.ant-layout-sider {
+  overflow: visible !important;
+}

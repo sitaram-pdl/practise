@@ -1,0 +1,51 @@
+.claim-certification-card {
+  max-width: 868px;
+  border-radius: 15px 15px 0px 0px;
+  box-shadow: 0px -2px 41px rgba(0, 0, 0, 0.14);
+}
+
+.card-detail {
+  max-width: 622px;
+  background: #ffffff;
+  box-shadow: 0px -2px 41px rgba(0, 0, 0, 0.14);
+  border-radius: 15px;
+}
+
+.card-body {
+  padding: 27px 35px 27px 40px;
+}
+
+.card-title {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  height: 150%;
+  text-align: center;
+  letter-spacing: 0.005em;
+  color: #1b9876;
+  padding-bottom: 25px;
+  margin: 0;
+}
+
+.card-title img {
+  width: 12.5rem;
+}
+
+@media screen and (max-width: 700px) {
+  .card-title img {
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .card-title img {
+    width: 100%;
+  }
+}
+
+.card-header {
+  background: #1b9876;
+  border-radius: 15px 15px 0px 0px;
+  padding: 15px 25px;
+}

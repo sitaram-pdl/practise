@@ -1,0 +1,7 @@
+#charts .recharts-default-legend {
+<<<<<<< HEAD
+  transform: translateX(20px) !important;
+=======
+    transform: translateX(20px) !important;
+>>>>>>> 66b6360c5794406af5650b87f549321b9ff66702
+}

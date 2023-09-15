@@ -1,0 +1,24 @@
+.performanceTable .ant-collapse-header {
+    padding-inline: 2.5rem !important;
+}
+
+.performanceTable .ant-collapse-content-box {
+    padding-inline: 2rem !important;
+}
+
+.performanceTable .ant-progress-line {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 700px) {
+    .performanceTable .ant-collapse-header {
+        padding-inline: 1rem !important;
+    }
+    .performanceTable .ant-collapse-content-box {
+        padding-inline: 1.5rem !important;
+    }
+}
+
+.pdf-page .secondSection {
+    animation: none !important;
+}

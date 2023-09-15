@@ -1,0 +1,2291 @@
+[
+  {
+    "stockCode": "2",
+    "company": "CLP Holdings Limited",
+    "classification": "Utilities",
+    "emissionReport": { "2020": "62,138,000", "2021": "65,017,000" },
+    "companyInfo": {
+      "fulltime": "8,116",
+      "grossFloor": "―",
+      "revenue": "83,959"
+    },
+    "carbonFootprint": {
+      "base": "CFR00002-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00002-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6422"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0002_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2011", "tonnes": "44,450,000" },
+      { "year": "2012", "tonnes": "38,464,000" },
+      { "year": "2013", "tonnes": "44,258,300" },
+      { "year": "2014", "tonnes": "53,256,000" },
+      { "year": "2015", "tonnes": "46,723,000" },
+      { "year": "2016", "tonnes": "46,681,000" },
+      { "year": "2017", "tonnes": "48,082,000" },
+      { "year": "2018", "tonnes": "52,306,000" },
+      { "year": "2019", "tonnes": "71,720,000" }
+    ]
+  },
+  {
+    "stockCode": "3",
+    "company": "The Hong Kong and China Gas Company Limited",
+    "classification": "Utilities",
+    "emissionReport": { "2020": "1,406,000", "2021": "―" },
+    "companyInfo": { "fulltime": "―", "grossFloor": "―", "revenue": "―" },
+    "carbonFootprint": {
+      "base": "CFR00003-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00003-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=8153"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2011", "tonnes": "864,000" },
+      { "year": "2012", "tonnes": "1,055,000" },
+      { "year": "2013", "tonnes": "1,088,000" },
+      { "year": "2014", "tonnes": "1,028,000" },
+      { "year": "2015", "tonnes": "1,305,000" },
+      { "year": "2016", "tonnes": "1,258,000" },
+      { "year": "2017", "tonnes": "1,274,000" },
+      { "year": "2018", "tonnes": "1,262,000" },
+      { "year": "2019", "tonnes": "1,439,000" }
+    ]
+  },
+  {
+    "stockCode": "4",
+    "company": "The Wharf (Holdings) Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "225,116", "2021": "238,888" },
+    "companyInfo": {
+      "fulltime": "5,319",
+      "grossFloor": "―",
+      "revenue": "22,378"
+    },
+    "carbonFootprint": {
+      "base": "CFR00004-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00004-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6424"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0004_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2012", "tonnes": "184,701" },
+      { "year": "2013", "tonnes": "182,642" },
+      { "year": "2014", "tonnes": "217,654" },
+      { "year": "2015", "tonnes": "179,583" },
+      { "year": "2016", "tonnes": "180,891" },
+      { "year": "2017", "tonnes": "148,536" },
+      { "year": "2018", "tonnes": "188,539" },
+      { "year": "2019", "tonnes": "207,608" }
+    ]
+  },
+  {
+    "stockCode": "5",
+    "company": "HSBC Holdings plc",
+    "classification": "Financials",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": { "fulltime": "―", "grossFloor": "―", "revenue": "―" },
+    "carbonFootprint": "―",
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6425"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "782,291" },
+      { "year": "2014", "tonnes": "2,189,536" },
+      { "year": "2016", "tonnes": "35,335,812" }
+    ]
+  },
+  {
+    "stockCode": "6",
+    "company": "Power Assets Holdings Limited",
+    "classification": "Utilities",
+    "emissionReport": { "2020": "8,004,671", "2021": "8,294,833" },
+    "companyInfo": {
+      "fulltime": "17,561",
+      "grossFloor": "―",
+      "revenue": "1,276"
+    },
+    "carbonFootprint": {
+      "base": "CFR00006-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00006-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=9121"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0006_2022_remark.pdf"
+    },
+    "report": [
+      { "year": "2012", "tonnes": "8,960,000" },
+      { "year": "2013", "tonnes": "8,420,000" },
+      { "year": "2017", "tonnes": "12,195,081" },
+      { "year": "2018", "tonnes": "12,642,974" },
+      { "year": "2019", "tonnes": "10,885,046" }
+    ]
+  },
+  {
+    "stockCode": "8",
+    "company": "PCCW Limited",
+    "classification": "Telecommunications",
+    "emissionReport": { "2020": "237,703", "2021": "194,203" },
+    "companyInfo": {
+      "fulltime": "12,893",
+      "grossFloor": "―",
+      "revenue": "38,654"
+    },
+    "carbonFootprint": {
+      "base": "CFR00008-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00008-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6428"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0008_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2013", "tonnes": "71,095.5" },
+      { "year": "2014", "tonnes": "63,134" },
+      { "year": "2015", "tonnes": "46,999.3" },
+      { "year": "2016", "tonnes": "13,834.4" },
+      { "year": "2017", "tonnes": "256,117" },
+      { "year": "2018", "tonnes": "250,338" },
+      { "year": "2019", "tonnes": "244,293" }
+    ]
+  },
+  {
+    "stockCode": "10",
+    "company": "Hang Lung Group Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "210,871", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "―",
+      "grossFloor": "3,177,247",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR00010-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00010-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6430"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0010_2020_remark.pdf"
+    },
+    "report": [
+      { "year": "2013", "tonnes": "123,157.81" },
+      { "year": "2014", "tonnes": "153,387.41" },
+      { "year": "2015", "tonnes": "159,435.57" },
+      { "year": "2016", "tonnes": "211,371.26" },
+      { "year": "2017", "tonnes": "236,311.73" },
+      { "year": "2018", "tonnes": "274,302.18" },
+      { "year": "2019", "tonnes": "257,059.63" }
+    ]
+  },
+  {
+    "stockCode": "11",
+    "company": "Hang Seng Bank",
+    "classification": "Financials",
+    "emissionReport": { "2020": "19,571.59", "2021": "16,411.02" },
+    "companyInfo": {
+      "fulltime": "7,629",
+      "grossFloor": "123,763.85",
+      "revenue": "49,532"
+    },
+    "carbonFootprint": {
+      "base": "CFR00011-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00011-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6431"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2012", "tonnes": "24,631.77" },
+      { "year": "2013", "tonnes": "24,634.95" },
+      { "year": "2014", "tonnes": "24,988.78" },
+      { "year": "2015", "tonnes": "26,180.33" },
+      { "year": "2016", "tonnes": "24,628.22" },
+      { "year": "2017", "tonnes": "22,881.43" },
+      { "year": "2018", "tonnes": "21,610.84" },
+      { "year": "2019", "tonnes": "20,926.67" }
+    ]
+  },
+  {
+    "stockCode": "12",
+    "company": "Henderson Land Development Co. Ltd.",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "94,542", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "8,005",
+      "grossFloor": "805,298.13",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR00012-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00012-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6432"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2012", "tonnes": "103,166" },
+      { "year": "2013", "tonnes": "104,117" },
+      { "year": "2014", "tonnes": "119,148" },
+      { "year": "2015", "tonnes": "108,158" },
+      { "year": "2016", "tonnes": "101,466" },
+      { "year": "2017", "tonnes": "100,269" },
+      { "year": "2018", "tonnes": "96,770" },
+      { "year": "2019", "tonnes": "95,515" }
+    ]
+  },
+  {
+    "stockCode": "14",
+    "company": "Hysan Development Company Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "35,381", "2021": "33,469" },
+    "companyInfo": {
+      "fulltime": "467",
+      "grossFloor": "418,064",
+      "revenue": "3,608"
+    },
+    "carbonFootprint": {
+      "base": "CFR00014-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00014-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6434"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "40,610" },
+      { "year": "2014", "tonnes": "38,515" },
+      { "year": "2015", "tonnes": "39,120" },
+      { "year": "2016", "tonnes": "37,242" },
+      { "year": "2017", "tonnes": "37,069" },
+      { "year": "2018", "tonnes": "40,873" },
+      { "year": "2019", "tonnes": "37,560" }
+    ]
+  },
+  {
+    "stockCode": "17",
+    "company": "New World Development Co. Ltd.",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "35,299",
+      "grossFloor": "―",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR00017-17-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00017-17-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6437"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2015", "tonnes": "807,293" },
+      { "year": "2016", "tonnes": "32,814.6" },
+      { "year": "2017", "tonnes": "801,674" }
+    ]
+  },
+  {
+    "stockCode": "19",
+    "company": "Swire Pacific Ltd. 'A'",
+    "classification": "Conglomerates",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "78,610",
+      "grossFloor": "―",
+      "revenue": "61,301"
+    },
+    "carbonFootprint": "―",
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6439"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/006_0019_2013_remark.pdf"
+    },
+    "report": [
+      { "year": "2011", "tonnes": "16,865,559" },
+      { "year": "2012", "tonnes": "16,733,019" },
+      { "year": "2013", "tonnes": "16,571,628" },
+      { "year": "2014", "tonnes": "17,664,829" },
+      { "year": "2015", "tonnes": "18,332,588" },
+      { "year": "2016", "tonnes": "1,855,573" },
+      { "year": "2017", "tonnes": "19,062,060" }
+    ]
+  },
+  {
+    "stockCode": "23",
+    "company": "The Bank of East Asia, Limited",
+    "classification": "Financials",
+    "emissionReport": { "2020": "34,365.96", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "9,536",
+      "grossFloor": "247,354.37",
+      "revenue": "17,310"
+    },
+    "carbonFootprint": {
+      "base": "CFR00023-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00023-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6443"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0023_2020_remark.pdf"
+    },
+    "report": [
+      { "year": "2013", "tonnes": "13,600.19" },
+      { "year": "2014", "tonnes": "12,051.29" },
+      { "year": "2015", "tonnes": "11,659.5" },
+      { "year": "2016", "tonnes": "11,722.05" },
+      { "year": "2017", "tonnes": "11,781.23" },
+      { "year": "2018", "tonnes": "12,129.63" },
+      { "year": "2019", "tonnes": "33,503.47" }
+    ]
+  },
+  {
+    "stockCode": "41",
+    "company": "Great Eagle Holdings Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "6,366",
+      "grossFloor": "1,007,676",
+      "revenue": "6,498.4"
+    },
+    "carbonFootprint": {
+      "base": "CFR00041-19-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00041-19-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6461"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "142,321" },
+      { "year": "2014", "tonnes": "122,397" },
+      { "year": "2015", "tonnes": "119,015" },
+      { "year": "2016", "tonnes": "114,829" },
+      { "year": "2017", "tonnes": "115,362" },
+      { "year": "2018", "tonnes": "120,934" },
+      { "year": "2019", "tonnes": "117,664" }
+    ]
+  },
+  {
+    "stockCode": "45",
+    "company": "The Hongkong and Shanghai Hotels, Limited",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "68,000", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "5,609",
+      "grossFloor": "646,000",
+      "revenue": "2,715"
+    },
+    "carbonFootprint": {
+      "base": "CFR00045-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00045-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=8495"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2012", "tonnes": "115,100" },
+      { "year": "2013", "tonnes": "111,619" },
+      { "year": "2014", "tonnes": "115,642" },
+      { "year": "2015", "tonnes": "106,000" },
+      { "year": "2016", "tonnes": "103,000" },
+      { "year": "2017", "tonnes": "101,677" },
+      { "year": "2018", "tonnes": "100,558" },
+      { "year": "2019", "tonnes": "97,816" }
+    ]
+  },
+  {
+    "stockCode": "46",
+    "company": "Computer And Technologies Holdings Ltd.",
+    "classification": "Information Technology",
+    "emissionReport": { "2020": "215", "2021": "207" },
+    "companyInfo": {
+      "fulltime": "380",
+      "grossFloor": "1,858.06",
+      "revenue": "265.504"
+    },
+    "carbonFootprint": {
+      "base": "CFR00046-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00046-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6466"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2016", "tonnes": "251" },
+      { "year": "2017", "tonnes": "251" },
+      { "year": "2018", "tonnes": "249" },
+      { "year": "2019", "tonnes": "244" }
+    ]
+  },
+  {
+    "stockCode": "50",
+    "company": "Hong Kong Ferry (Holdings) Company Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "5,474", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "200",
+      "grossFloor": "29,067.56",
+      "revenue": "99"
+    },
+    "carbonFootprint": {
+      "base": "CFR00050-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00050-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=9122"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "http://www.carbon-footprint.hk/PDF/003_0293_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2012", "tonnes": "7,473.15" },
+      { "year": "2014", "tonnes": "7,145.73" },
+      { "year": "2018", "tonnes": "6,943" },
+      { "year": "2019", "tonnes": "6,397" }
+    ]
+  },
+  {
+    "stockCode": "51",
+    "company": "Harbour Centre Development Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "17,408", "2021": "25,483" },
+    "companyInfo": {
+      "fulltime": "780",
+      "grossFloor": "―",
+      "revenue": "4,484"
+    },
+    "carbonFootprint": {
+      "base": "CFR00051-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00051-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6469"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0051_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2012", "tonnes": "8,693.18" },
+      { "year": "2013", "tonnes": "8,418.85" },
+      { "year": "2014", "tonnes": "9,433.24" },
+      { "year": "2015", "tonnes": "8,004.24" },
+      { "year": "2016", "tonnes": "7,932.36" },
+      { "year": "2017", "tonnes": "16,162" },
+      { "year": "2018", "tonnes": "26,425" },
+      { "year": "2019", "tonnes": "25,991" }
+    ]
+  },
+  {
+    "stockCode": "55",
+    "company": "Neway Group Holdings Limited",
+    "classification": "Industrials",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "2,287",
+      "grossFloor": "46,800",
+      "revenue": "800"
+    },
+    "carbonFootprint": {
+      "base": "CFR00055-12-2",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00055-12-2.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [
+      { "year": "2011", "tonnes": "19,881.3" },
+      { "year": "2012", "tonnes": "18,528.53" }
+    ]
+  },
+  {
+    "stockCode": "66",
+    "company": "MTR Corporation",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "17,524",
+      "grossFloor": "―",
+      "revenue": "55,440"
+    },
+    "carbonFootprint": {
+      "base": "CFR00066-17-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00066-17-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6484"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2011", "tonnes": "1,218,290" },
+      { "year": "2012", "tonnes": "1,255,125" },
+      { "year": "2013", "tonnes": "1,359,996" },
+      { "year": "2014", "tonnes": "1,497,435" },
+      { "year": "2015", "tonnes": "1,343,723" },
+      { "year": "2016", "tonnes": "1,355,381" },
+      { "year": "2017", "tonnes": "1,334,394" }
+    ]
+  },
+  {
+    "stockCode": "69",
+    "company": "Shangri-La Asia, Ltd",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "733,791", "2021": "696,170" },
+    "companyInfo": {
+      "fulltime": "39,017",
+      "grossFloor": "7,799,081",
+      "revenue": "9,679.8"
+    },
+    "carbonFootprint": {
+      "base": "CFR00069-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00069-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=9123"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "890,069" },
+      { "year": "2014", "tonnes": "925,923" },
+      { "year": "2015", "tonnes": "941,435" },
+      { "year": "2016", "tonnes": "988,431" },
+      { "year": "2017", "tonnes": "1,044,774" },
+      { "year": "2018", "tonnes": "1,096,146" },
+      { "year": "2019", "tonnes": "1,048,321" }
+    ]
+  },
+  {
+    "stockCode": "83",
+    "company": "Sino Land Co. Ltd.",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "96,544.3", "2021": "99,481.8" },
+    "companyInfo": {
+      "fulltime": "8,724",
+      "grossFloor": "16,646,442",
+      "revenue": "24,545"
+    },
+    "carbonFootprint": {
+      "base": "CFR00083-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00083-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6501"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2014", "tonnes": "141,578" },
+      { "year": "2015", "tonnes": "133,784" },
+      { "year": "2016", "tonnes": "179,034.6" },
+      { "year": "2017", "tonnes": "80,155.53" },
+      { "year": "2018", "tonnes": "73,128" },
+      { "year": "2019", "tonnes": "99,371.4" }
+    ]
+  },
+  {
+    "stockCode": "87",
+    "company": "Swire Pacific Ltd. 'B'",
+    "classification": "Conglomerates",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "78,610",
+      "grossFloor": "―",
+      "revenue": "61,301"
+    },
+    "carbonFootprint": "―",
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6505"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/007_0087_2013_remark.pdf"
+    },
+    "report": [
+      { "year": "2011", "tonnes": "16,865,559" },
+      { "year": "2012", "tonnes": "16,733,019" },
+      { "year": "2013", "tonnes": "16,571,628" },
+      { "year": "2014", "tonnes": "17,664,829" },
+      { "year": "2015", "tonnes": "18,332,588" },
+      { "year": "2016", "tonnes": "1,855,573" },
+      { "year": "2017", "tonnes": "19,062,060" }
+    ]
+  },
+  {
+    "stockCode": "101",
+    "company": "Hang Lung Properties Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "210,871", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "―",
+      "grossFloor": "3,177,247",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR00101-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00101-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6519"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0101_2020_remark.pdf"
+    },
+    "report": [
+      { "year": "2013", "tonnes": "123,157.81" },
+      { "year": "2014", "tonnes": "153,387.41" },
+      { "year": "2015", "tonnes": "159,435.57" },
+      { "year": "2016", "tonnes": "211,371.26" },
+      { "year": "2017", "tonnes": "236,331.73" },
+      { "year": "2018", "tonnes": "274,302.18" },
+      { "year": "2019", "tonnes": "257,059.63" }
+    ]
+  },
+  {
+    "stockCode": "118",
+    "company": "Cosmos Machinery Enterprises Ltd.",
+    "classification": "Industrials",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "1,992",
+      "grossFloor": "76,775",
+      "revenue": "741"
+    },
+    "carbonFootprint": {
+      "base": "CFR00118-16-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00118-16-1.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [{ "year": "2016", "tonnes": "26,471" }]
+  },
+  {
+    "stockCode": "142",
+    "company": "First Pacific Company Limited",
+    "classification": "Consumer Staples",
+    "emissionReport": { "2020": "95.5", "2021": "79.7" },
+    "companyInfo": {
+      "fulltime": "39",
+      "grossFloor": "1,198.4",
+      "revenue": "71,005"
+    },
+    "carbonFootprint": {
+      "base": "CFR00142-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00142-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6558"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "303" },
+      { "year": "2014", "tonnes": "308.40" },
+      { "year": "2015", "tonnes": "226.70" },
+      { "year": "2016", "tonnes": "185.1" },
+      { "year": "2017", "tonnes": "180.9" },
+      { "year": "2018", "tonnes": "185.6" },
+      { "year": "2019", "tonnes": "170.9" }
+    ]
+  },
+  {
+    "stockCode": "175",
+    "company": "Geely Automobile Holdings Ltd.",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "42,785",
+      "grossFloor": "―",
+      "revenue": "109,438"
+    },
+    "carbonFootprint": {
+      "base": "CFR00175-19-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00175-19-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6589"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0175_2019_remark.pdf"
+    },
+    "report": [
+      { "year": "2016", "tonnes": "322,037.97" },
+      { "year": "2017", "tonnes": "473,106.64" },
+      { "year": "2018", "tonnes": "564,543.3" },
+      { "year": "2019", "tonnes": "559,279.5" }
+    ]
+  },
+  {
+    "stockCode": "178",
+    "company": "Sa Sa International Holdings Ltd.",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "10,022", "2021": "7,302" },
+    "companyInfo": {
+      "fulltime": "1,621",
+      "grossFloor": "51,074",
+      "revenue": "2,908"
+    },
+    "carbonFootprint": {
+      "base": "CFR00178-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00178-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6592"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2014", "tonnes": "21,626" },
+      { "year": "2015", "tonnes": "17,916" },
+      { "year": "2016", "tonnes": "17,217" },
+      { "year": "2017", "tonnes": "15,867" },
+      { "year": "2018", "tonnes": "14,897" },
+      { "year": "2019", "tonnes": "12,074" }
+    ]
+  },
+  {
+    "stockCode": "200",
+    "company": "Melco International Development Limited",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "251",
+      "grossFloor": "1,100",
+      "revenue": "1,123"
+    },
+    "carbonFootprint": {
+      "base": "CFR00200-13-2",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00200-13-2.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6613"
+    },
+    "remark": "―",
+    "report": [{ "year": "2013", "tonnes": "465.20" }]
+  },
+  {
+    "stockCode": "224",
+    "company": "Pioneer Global Group Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "17",
+      "grossFloor": "39,890.08",
+      "revenue": "139.39"
+    },
+    "carbonFootprint": {
+      "base": "CFR00224-13-3",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00224-13-3.pdf"
+    },
+    "response": "―",
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/018_0224_2013_remark.pdf"
+    },
+    "report": [{ "year": "2013", "tonnes": "4,536.51" }]
+  },
+  {
+    "stockCode": "242",
+    "company": "Shun Tak Holdings Limited",
+    "classification": "Conglomerates",
+    "emissionReport": { "2020": "108,495", "2021": "77,639" },
+    "companyInfo": {
+      "fulltime": "3,068",
+      "grossFloor": "―",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR00242-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00242-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6654"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "533.73" },
+      { "year": "2014", "tonnes": "478,706" },
+      { "year": "2015", "tonnes": "566,508" },
+      { "year": "2016", "tonnes": "527,728" },
+      { "year": "2017", "tonnes": "526,536" },
+      { "year": "2018", "tonnes": "500,628" },
+      { "year": "2019", "tonnes": "420,301" }
+    ]
+  },
+  {
+    "stockCode": "247",
+    "company": "Tsim Sha Tsui Properties Ltd.",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "96,544.3", "2021": "99,481.8" },
+    "companyInfo": {
+      "fulltime": "8,724",
+      "grossFloor": "16,646,442",
+      "revenue": "24,545"
+    },
+    "carbonFootprint": {
+      "base": "CFR00247-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00247-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6659"
+    },
+    "remark": "―",
+    "report": [{ "year": "2019", "tonnes": "99,371.4" }]
+  },
+  {
+    "stockCode": "272",
+    "company": "Shui On Land Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "3,114",
+      "grossFloor": "1,670,000",
+      "revenue": "29,362"
+    },
+    "carbonFootprint": {
+      "base": "CFR00272-18-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00272-18-1.pdf"
+    },
+    "response": "―",
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/052_0272_2017_remark.pdf"
+    },
+    "report": [
+      { "year": "2011", "tonnes": "65,221.94" },
+      { "year": "2012", "tonnes": "75,189.49" },
+      { "year": "2013", "tonnes": "102,103.29" },
+      { "year": "2014", "tonnes": "87,634.08" },
+      { "year": "2015", "tonnes": "75,587.16" },
+      { "year": "2017", "tonnes": "108,842" },
+      { "year": "2018", "tonnes": "107,167" }
+    ]
+  },
+  {
+    "stockCode": "293",
+    "company": "Cathay Pacific Airways Limited",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "7,588,717", "2021": "6,059,578" },
+    "companyInfo": {
+      "fulltime": "21,635",
+      "grossFloor": "134,000",
+      "revenue": "45,587"
+    },
+    "carbonFootprint": {
+      "base": "CFR00293-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00293-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6702"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/003_0293_2022_remark.pdf"
+    },
+    "report": [
+      { "year": "2011", "tonnes": "16,340,400" },
+      { "year": "2012", "tonnes": "16,069,810" },
+      { "year": "2013", "tonnes": "15,968,359" },
+      { "year": "2014", "tonnes": "16,746,102" },
+      { "year": "2015", "tonnes": "17,454,594" },
+      { "year": "2016", "tonnes": "17,280,123" },
+      { "year": "2017", "tonnes": "18,076,450" },
+      { "year": "2018", "tonnes": "18,480,735" },
+      { "year": "2019", "tonnes": "18,499,217" }
+    ]
+  },
+  {
+    "stockCode": "384",
+    "company": "China Gas Holdings Limited",
+    "classification": "Energy",
+    "emissionReport": { "2020": "288,853.42", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "74,305",
+      "grossFloor": "―",
+      "revenue": "69,975"
+    },
+    "carbonFootprint": {
+      "base": "CFR00384-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00384-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6786"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "388",
+    "company": "Hong Kong Exchanges and Clearing Limited",
+    "classification": "Financials",
+    "emissionReport": { "2020": "20,096", "2021": "15,990" },
+    "companyInfo": {
+      "fulltime": "2,307",
+      "grossFloor": "63,888",
+      "revenue": "19,471"
+    },
+    "carbonFootprint": {
+      "base": "CFR00388-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00388-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=8513"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/388_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2013", "tonnes": "19,622" },
+      { "year": "2014", "tonnes": "20,286" },
+      { "year": "2015", "tonnes": "21,358" },
+      { "year": "2016", "tonnes": "19,357" },
+      { "year": "2017", "tonnes": "20,419" },
+      { "year": "2018", "tonnes": "20,189" },
+      { "year": "2019", "tonnes": "22,155" }
+    ]
+  },
+  {
+    "stockCode": "406",
+    "company": "Yau Lee Holdings Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "8,706.62", "2021": "7,060.00" },
+    "companyInfo": {
+      "fulltime": "3,191",
+      "grossFloor": "―",
+      "revenue": "6,731"
+    },
+    "carbonFootprint": {
+      "base": "CFR00406-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00406-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6804"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2017", "tonnes": "12,642.53" },
+      { "year": "2018", "tonnes": "10,141.41" },
+      { "year": "2019", "tonnes": "10,922.78" }
+    ]
+  },
+  {
+    "stockCode": "432",
+    "company": "Pacific Century Premium Developments Ltd.",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "62,582.4", "2021": "70,010.1" },
+    "companyInfo": {
+      "fulltime": "801",
+      "grossFloor": "700,206.90",
+      "revenue": "467"
+    },
+    "carbonFootprint": {
+      "base": "CFR00432-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00432-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6821"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2016", "tonnes": "21,214.25" },
+      { "year": "2017", "tonnes": "26,633.4" },
+      { "year": "2018", "tonnes": "35,796.7" },
+      { "year": "2019", "tonnes": "52,548.5" }
+    ]
+  },
+  {
+    "stockCode": "480",
+    "company": "HKR International Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "55,565.99", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "2,240",
+      "grossFloor": "—",
+      "revenue": "3,942"
+    },
+    "carbonFootprint": {
+      "base": "CFR00480-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00480-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6849"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "626",
+    "company": "Public Financial Holdings Ltd.",
+    "classification": "Financials",
+    "emissionReport": { "2020": "2,870.01", "2021": "2,720.66" },
+    "companyInfo": {
+      "fulltime": "1,196",
+      "grossFloor": "32,955",
+      "revenue": "1,515"
+    },
+    "carbonFootprint": {
+      "base": "CFR00626-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00626-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6969"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2016", "tonnes": "1,600.6" },
+      { "year": "2017", "tonnes": "3,064.16" },
+      { "year": "2018", "tonnes": "3,067.88" },
+      { "year": "2019", "tonnes": "3,175.40" }
+    ]
+  },
+  {
+    "stockCode": "637",
+    "company": "Lee Kee Holdings Limited",
+    "classification": "Materials",
+    "emissionReport": { "2020": "913.08", "2021": "2,977" },
+    "companyInfo": {
+      "fulltime": "185",
+      "grossFloor": "29,736.085",
+      "revenue": "1,951.879"
+    },
+    "carbonFootprint": {
+      "base": "CFR00637-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00637-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6978"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0637_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2013", "tonnes": "1,052.1" },
+      { "year": "2015", "tonnes": "1,026.1" },
+      { "year": "2016", "tonnes": "829.7" },
+      { "year": "2017", "tonnes": "720.11" },
+      { "year": "2018", "tonnes": "903.59" },
+      { "year": "2019", "tonnes": "882.49" }
+    ]
+  },
+  {
+    "stockCode": "662",
+    "company": "Asia Financial Holdings Ltd.",
+    "classification": "Financials",
+    "emissionReport": { "2020": "807.58", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "256",
+      "grossFloor": "43,530",
+      "revenue": "1,747,918"
+    },
+    "carbonFootprint": {
+      "base": "CFR00662-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00662-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=6998"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2012", "tonnes": "891.95" },
+      { "year": "2013", "tonnes": "890.08" },
+      { "year": "2014", "tonnes": "851" },
+      { "year": "2015", "tonnes": "832" },
+      { "year": "2016", "tonnes": "822.46" },
+      { "year": "2017", "tonnes": "808.97" },
+      { "year": "2018", "tonnes": "833.21" },
+      { "year": "2019", "tonnes": "814.56" }
+    ]
+  },
+  {
+    "stockCode": "683",
+    "company": "Kerry Properties Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "—",
+      "grossFloor": "1,142,063",
+      "revenue": "—"
+    },
+    "carbonFootprint": {
+      "base": "CFR00683-19-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00683-19-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7016"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "56,129" },
+      { "year": "2014", "tonnes": "54,756" },
+      { "year": "2015", "tonnes": "52,156" },
+      { "year": "2016", "tonnes": "51,508" },
+      { "year": "2017", "tonnes": "49,326" },
+      { "year": "2018", "tonnes": "48,525" },
+      { "year": "2019", "tonnes": "51,199" }
+    ]
+  },
+  {
+    "stockCode": "701",
+    "company": "CNT Group Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "87",
+      "grossFloor": "10,212",
+      "revenue": "187"
+    },
+    "carbonFootprint": {
+      "base": "CFR00701-13-2",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00701-13-2.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7033"
+    },
+    "remark": "―",
+    "report": [{ "year": "2013", "tonnes": "435.93" }]
+  },
+  {
+    "stockCode": "755",
+    "company": "Shanghai Zendai Property Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": { "fulltime": "6", "grossFloor": "222", "revenue": "―" },
+    "carbonFootprint": "―",
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7077"
+    },
+    "remark": "―",
+    "report": [{ "year": "2014", "tonnes": "8.85" }]
+  },
+  {
+    "stockCode": "775",
+    "company": "CK Life Sciences Int'l., (Holdings) Inc.",
+    "classification": "Healthcare",
+    "emissionReport": { "2020": "47,527", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "1,219",
+      "grossFloor": "―",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR00775-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00775-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7095"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "809",
+    "company": "Global Bio-chem Technology Group Co. Ltd.",
+    "classification": "Materials",
+    "emissionReport": { "2020": "54,887", "2021": "5,253" },
+    "companyInfo": {
+      "fulltime": "3,691",
+      "grossFloor": "1,047,790",
+      "revenue": "746.6"
+    },
+    "carbonFootprint": {
+      "base": "CFR00809-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00809-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7106"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "823",
+    "company": "Link Real Estate Investment Trust",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "78,669", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "921",
+      "grossFloor": "3,575.8",
+      "revenue": "8,042"
+    },
+    "carbonFootprint": {
+      "base": "CFR00823-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00823-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=8010"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2012", "tonnes": "156,589" },
+      { "year": "2013", "tonnes": "155,614" },
+      { "year": "2014", "tonnes": "155,289.86" },
+      { "year": "2015", "tonnes": "130,903.20" },
+      { "year": "2016", "tonnes": "127,091.38" },
+      { "year": "2017", "tonnes": "115,573.56" },
+      { "year": "2018", "tonnes": "104,870.39" },
+      { "year": "2019", "tonnes": "104,721.36" }
+    ]
+  },
+  {
+    "stockCode": "880",
+    "company": "SJM Holdings Limited",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "183.65", "2021": "146.18" },
+    "companyInfo": {
+      "fulltime": "54",
+      "grossFloor": "2,724",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR00880-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00880-21-1.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "66.1" },
+      { "year": "2014", "tonnes": "231.5" },
+      { "year": "2015", "tonnes": "205.5" },
+      { "year": "2016", "tonnes": "169.7" },
+      { "year": "2017", "tonnes": "167.5" },
+      { "year": "2018", "tonnes": "176.51" },
+      { "year": "2019", "tonnes": "189.74" }
+    ]
+  },
+  {
+    "stockCode": "888",
+    "company": "RoadShow Holdings Ltd.",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "123",
+      "grossFloor": "1,476",
+      "revenue": "407.511"
+    },
+    "carbonFootprint": {
+      "base": "CFR00888-16-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00888-16-1.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [{ "year": "2016", "tonnes": "119" }]
+  },
+  {
+    "stockCode": "891",
+    "company": "Trinity Limited",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "681",
+      "grossFloor": "40,251",
+      "revenue": "525"
+    },
+    "carbonFootprint": {
+      "base": "CFR00891-16-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00891-16-1.pdf"
+    },
+    "response": "―",
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/034_0891_2016_remark.pdf"
+    },
+    "report": [
+      { "year": "2012", "tonnes": "3,081" },
+      { "year": "2013", "tonnes": "3,039" },
+      { "year": "2014", "tonnes": "2,824" },
+      { "year": "2015", "tonnes": "2,526.6" },
+      { "year": "2016", "tonnes": "2,526.6" }
+    ]
+  },
+  {
+    "stockCode": "900",
+    "company": "Aeon Credit Service (Asia) Company Limited",
+    "classification": "Financials",
+    "emissionReport": { "2020": "321.55", "2021": "239.87" },
+    "companyInfo": {
+      "fulltime": "267",
+      "grossFloor": "4,137",
+      "revenue": "1,089"
+    },
+    "carbonFootprint": {
+      "base": "CFR00900-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00900-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7186"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0900_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2014", "tonnes": "316.44" },
+      { "year": "2015", "tonnes": "336.40" },
+      { "year": "2016", "tonnes": "293.74" },
+      { "year": "2017", "tonnes": "322.9368" },
+      { "year": "2018", "tonnes": "368.651" },
+      { "year": "2019", "tonnes": "309.298" }
+    ]
+  },
+  {
+    "stockCode": "915",
+    "company": "Daohe Global Group Ltd",
+    "classification": "Industrials",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "100",
+      "grossFloor": "3,072",
+      "revenue": "761.4"
+    },
+    "carbonFootprint": {
+      "base": "CFR00915-16-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00915-16-1.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "230" },
+      { "year": "2015", "tonnes": "170.73" },
+      { "year": "2016", "tonnes": "166.53" }
+    ]
+  },
+  {
+    "stockCode": "983",
+    "company": "SOCAM Development Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "62,542", "2021": "60,169.7" },
+    "companyInfo": { "fulltime": "―", "grossFloor": "―", "revenue": "―" },
+    "carbonFootprint": {
+      "base": "CFR00983-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00983-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7250"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2012", "tonnes": "42,844.49" },
+      { "year": "2013", "tonnes": "37,497.58" },
+      { "year": "2014", "tonnes": "77,360" },
+      { "year": "2015", "tonnes": "68,012.8" },
+      { "year": "2016", "tonnes": "47,820.4" },
+      { "year": "2017", "tonnes": "171,071.6" },
+      { "year": "2018", "tonnes": "70,677" },
+      { "year": "2019", "tonnes": "60,719.1" }
+    ]
+  },
+  {
+    "stockCode": "992",
+    "company": "Lenovo Group Limited",
+    "classification": "Information Technology",
+    "emissionReport": { "2020": "17,701,158", "2021": "20,160,967" },
+    "companyInfo": {
+      "fulltime": "71,000",
+      "grossFloor": "1,508,000",
+      "revenue": "472,769"
+    },
+    "carbonFootprint": {
+      "base": "CFR00992-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00992-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7259"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/0992_remark.pdf"
+    },
+    "report": [
+      { "year": "2012", "tonnes": "539,989" },
+      { "year": "2013", "tonnes": "1,698,625" },
+      { "year": "2014", "tonnes": "16,326,450" },
+      { "year": "2015", "tonnes": "14,728,145" },
+      { "year": "2016", "tonnes": "14,808,355" },
+      { "year": "2017", "tonnes": "14,705,421" },
+      { "year": "2018", "tonnes": "14,860,831" },
+      { "year": "2019", "tonnes": "16,012,472" }
+    ]
+  },
+  {
+    "stockCode": "997",
+    "company": "Chinlink International Holdings Limited",
+    "classification": "Industrials",
+    "emissionReport": { "2020": "8,754.6", "2021": "7,142.8" },
+    "companyInfo": {
+      "fulltime": "252",
+      "grossFloor": "389,798.11",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR00997-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR00997-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7263"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "9.1" },
+      { "year": "2017", "tonnes": "4,370" },
+      { "year": "2018", "tonnes": "8,745" },
+      { "year": "2019", "tonnes": "8,229" }
+    ]
+  },
+  {
+    "stockCode": "1001",
+    "company": "HONG KONG SHANGHAI ALLIANCE HOLDINGS LTD.",
+    "classification": "Materials",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "117",
+      "grossFloor": "578",
+      "revenue": "3.76"
+    },
+    "carbonFootprint": {
+      "base": "CFR01001-14-2",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01001-14-2.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [{ "year": "2014", "tonnes": "74.23" }]
+  },
+  {
+    "stockCode": "1038",
+    "company": "CK Infrastructure Holdings Limited",
+    "classification": "Utilities",
+    "emissionReport": { "2020": "9,923,680", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "30,579",
+      "grossFloor": "―",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR01038-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01038-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7292"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "1050",
+    "company": "Karrie International Holdings Limited",
+    "classification": "Information Technology",
+    "emissionReport": { "2020": "24,996", "2021": "24,249" },
+    "companyInfo": {
+      "fulltime": "3,351",
+      "grossFloor": "149,397",
+      "revenue": "2,793.37"
+    },
+    "carbonFootprint": {
+      "base": "CFR01050-21-2",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01050-21-2.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7302"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2015", "tonnes": "19,351" },
+      { "year": "2016", "tonnes": "19,461" },
+      { "year": "2017", "tonnes": "21,135" },
+      { "year": "2018", "tonnes": "22,054" },
+      { "year": "2019", "tonnes": "20,924" }
+    ]
+  },
+  {
+    "stockCode": "1082",
+    "company": "Hong Kong Education (Int'l) Investments Limited",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "257",
+      "grossFloor": "13,513",
+      "revenue": "225.7"
+    },
+    "carbonFootprint": {
+      "base": "CFR01082-13-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01082-13-1.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [{ "year": "2013", "tonnes": "2,905.56" }]
+  },
+  {
+    "stockCode": "1083",
+    "company": "Towngas Smart Energy Company Limited",
+    "classification": "Utilities",
+    "emissionReport": { "2020": "34,578.3", "2021": "―" },
+    "companyInfo": { "fulltime": "―", "grossFloor": "―", "revenue": "―" },
+    "carbonFootprint": {
+      "base": "CFR01083-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01083-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7328"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/1083_remark.pdf"
+    },
+    "report": [
+      { "year": "2011", "tonnes": "23,000" },
+      { "year": "2012", "tonnes": "22,000" },
+      { "year": "2013", "tonnes": "28,000" },
+      { "year": "2014", "tonnes": "27,400" },
+      { "year": "2015", "tonnes": "29,200" },
+      { "year": "2016", "tonnes": "29,900" },
+      { "year": "2017", "tonnes": "31,748" },
+      { "year": "2018", "tonnes": "33,958" },
+      { "year": "2019", "tonnes": "34,751" }
+    ]
+  },
+  {
+    "stockCode": "1113",
+    "company": "Cheung Kong Property Holdings Limited",
+    "classification": "Conglomerates",
+    "emissionReport": { "2020": "555,140", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "58,014",
+      "grossFloor": "―",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR01113-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01113-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=8497"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "1199",
+    "company": "COSCO SHIPPING PORTS LTD.",
+    "classification": "Industrials",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "2,845",
+      "grossFloor": "3,300,000",
+      "revenue": "1,280"
+    },
+    "carbonFootprint": {
+      "base": "CFR01199-13-3",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01199-13-3.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [{ "year": "2013", "tonnes": "36,703" }]
+  },
+  {
+    "stockCode": "1221",
+    "company": "Sino Hotels (Holdings) Limited",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "8,672.12", "2021": "6,943.45" },
+    "companyInfo": {
+      "fulltime": "398",
+      "grossFloor": "―",
+      "revenue": "112"
+    },
+    "carbonFootprint": {
+      "base": "CFR01221-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01221-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7444"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2015", "tonnes": "10,759.87" },
+      { "year": "2016", "tonnes": "10,445" },
+      { "year": "2017", "tonnes": "10,348.12" },
+      { "year": "2018", "tonnes": "10,535.79" },
+      { "year": "2019", "tonnes": "10,512.08" }
+    ]
+  },
+  {
+    "stockCode": "1299",
+    "company": "AIA Group Limited",
+    "classification": "Financials",
+    "emissionReport": { "2020": "42,550", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "23,397",
+      "grossFloor": "―",
+      "revenue": "391,793"
+    },
+    "carbonFootprint": {
+      "base": "CFR01299-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01299-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7490"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2016", "tonnes": "56,551" },
+      { "year": "2017", "tonnes": "57,842" },
+      { "year": "2018", "tonnes": "55,761" },
+      { "year": "2019", "tonnes": "59,749" }
+    ]
+  },
+  {
+    "stockCode": "1788",
+    "company": "Guotai Junan International Holdings Limited",
+    "classification": "Financials",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "560",
+      "grossFloor": "4,890",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR01788-19-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01788-19-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7554"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "682.64" },
+      { "year": "2014", "tonnes": "765.20" },
+      { "year": "2015", "tonnes": "860.70" },
+      { "year": "2016", "tonnes": "922" },
+      { "year": "2017", "tonnes": "982" },
+      { "year": "2018", "tonnes": "1,247" },
+      { "year": "2019", "tonnes": "1,526.5" }
+    ]
+  },
+  {
+    "stockCode": "1884",
+    "company": "eprint Group Limited",
+    "classification": "Industrials",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "85",
+      "grossFloor": "100",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR01884-13-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01884-13-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=8020"
+    },
+    "remark": "―",
+    "report": [{ "year": "2013", "tonnes": "24.92" }]
+  },
+  {
+    "stockCode": "1928",
+    "company": "Sands China Ltd",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "439,620", "2021": "508,985" },
+    "companyInfo": {
+      "fulltime": "25,885",
+      "grossFloor": "2,616,476",
+      "revenue": "22,417.2"
+    },
+    "carbonFootprint": {
+      "base": "CFR01928-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01928-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7589"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/030_1928_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2013", "tonnes": "794,984" },
+      { "year": "2014", "tonnes": "806,804.62" },
+      { "year": "2015", "tonnes": "768,067.70" },
+      { "year": "2016", "tonnes": "771,462" },
+      { "year": "2017", "tonnes": "807,912" },
+      { "year": "2018", "tonnes": "748,135" },
+      { "year": "2019", "tonnes": "744,246" }
+    ]
+  },
+  {
+    "stockCode": "1972",
+    "company": "Swire Properties Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "115,994", "2021": "96,388" },
+    "companyInfo": {
+      "fulltime": "2,345",
+      "grossFloor": "1,101,190",
+      "revenue": "12,554"
+    },
+    "carbonFootprint": {
+      "base": "CFR01972-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01972-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7594"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/1972_2021_Rearks.pdf"
+    },
+    "report": [
+      { "year": "2011", "tonnes": "162,502" },
+      { "year": "2012", "tonnes": "147,674" },
+      { "year": "2013", "tonnes": "140,173" },
+      { "year": "2014", "tonnes": "151,406" },
+      { "year": "2015", "tonnes": "148,320" },
+      { "year": "2016", "tonnes": "143,351" },
+      { "year": "2017", "tonnes": "130,527" },
+      { "year": "2018", "tonnes": "123,631" },
+      { "year": "2019", "tonnes": "112,018" }
+    ]
+  },
+  {
+    "stockCode": "1997",
+    "company": "Wharf Real Estate Investment Co. Ltd.",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "98,963", "2021": "108,857" },
+    "companyInfo": {
+      "fulltime": "2,878",
+      "grossFloor": "―",
+      "revenue": "16,043"
+    },
+    "carbonFootprint": {
+      "base": "CFR01997-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR01997-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=8696"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/1997_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2017", "tonnes": "127,941" },
+      { "year": "2018", "tonnes": "132,598" },
+      { "year": "2019", "tonnes": "130,766" }
+    ]
+  },
+  {
+    "stockCode": "2018",
+    "company": "AAC Technologies Holdings Inc.",
+    "classification": "Industrials",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "39,385",
+      "grossFloor": "1,177,200",
+      "revenue": "20,005"
+    },
+    "carbonFootprint": {
+      "base": "CFR02018-19-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR02018-19-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7610"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2015", "tonnes": "221,240" },
+      { "year": "2016", "tonnes": "271,986" },
+      { "year": "2017", "tonnes": "548,364" },
+      { "year": "2018", "tonnes": "608,600" },
+      { "year": "2019", "tonnes": "704,852" }
+    ]
+  },
+  {
+    "stockCode": "2086",
+    "company": "HNA TECHNOLOGY INVESTMENTS HOLDINGS LTD.",
+    "classification": "Information Technology",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "240",
+      "grossFloor": "3,911.12",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR02086-16-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR02086-16-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=8640"
+    },
+    "remark": "―",
+    "report": [{ "year": "2016", "tonnes": "253.97" }]
+  },
+  {
+    "stockCode": "2343",
+    "company": "Pacific Basin Shipping Ltd",
+    "classification": "Industrials",
+    "emissionReport": { "2020": "1,436,715", "2021": "3,921,580" },
+    "companyInfo": {
+      "fulltime": "4,965",
+      "grossFloor": "6,301",
+      "revenue": "23,317"
+    },
+    "carbonFootprint": {
+      "base": "CFR02343-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR02343-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7675"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/2343_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2013", "tonnes": "706,754" },
+      { "year": "2014", "tonnes": "904,351" },
+      { "year": "2015", "tonnes": "1,045,092" },
+      { "year": "2016", "tonnes": "1,029,701" },
+      { "year": "2017", "tonnes": "1,315,218" },
+      { "year": "2018", "tonnes": "1,390,977" },
+      { "year": "2019", "tonnes": "1,407,391" }
+    ]
+  },
+  {
+    "stockCode": "2369",
+    "company": "Coolpad Group Limited",
+    "classification": "Information Technology",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "6,000",
+      "grossFloor": "100,000",
+      "revenue": "19,600"
+    },
+    "carbonFootprint": {
+      "base": "CFR02369-13-2",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR02369-13-2.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [{ "year": "2013", "tonnes": "8,085.5" }]
+  },
+  {
+    "stockCode": "2388",
+    "company": "BOC Hong Kong (Holdings) Limited",
+    "classification": "Financials",
+    "emissionReport": { "2020": "63,737", "2021": "45,909" },
+    "companyInfo": {
+      "fulltime": "12,165",
+      "grossFloor": "229,545",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR02388-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR02388-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7694"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "2638",
+    "company": "HK Electric Investments and HK Electric Investments Ltd.",
+    "classification": "Utilities",
+    "emissionReport": { "2020": "7,190,000", "2021": "7,390,000" },
+    "companyInfo": {
+      "fulltime": "1,800",
+      "grossFloor": "―",
+      "revenue": "11,344"
+    },
+    "carbonFootprint": {
+      "base": "CFR02638-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR02638-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=9125"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2015", "tonnes": "8,470,000" },
+      { "year": "2016", "tonnes": "8,540,000" },
+      { "year": "2017", "tonnes": "8,410,000" },
+      { "year": "2018", "tonnes": "8,410,000" },
+      { "year": "2019", "tonnes": "8,510,000" }
+    ]
+  },
+  {
+    "stockCode": "2888",
+    "company": "Standard Chartered PLC",
+    "classification": "Financials",
+    "emissionReport": { "2020": "181,231", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "83,657",
+      "grossFloor": "1,050,414",
+      "revenue": "―"
+    },
+    "carbonFootprint": {
+      "base": "CFR02888-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR02888-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7726"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "305,732" },
+      { "year": "2014", "tonnes": "267,843" },
+      { "year": "2015", "tonnes": "256,335" },
+      { "year": "2016", "tonnes": "252,171" },
+      { "year": "2017", "tonnes": "247,115" },
+      { "year": "2018", "tonnes": "290,937" },
+      { "year": "2019", "tonnes": "286,718" }
+    ]
+  },
+  {
+    "stockCode": "3311",
+    "company": "China State Construction International Holdings Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "4,034",
+      "grossFloor": "—",
+      "revenue": "28,075"
+    },
+    "carbonFootprint": {
+      "base": "CFR03311-13-2",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR03311-13-2.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [{ "year": "2013", "tonnes": "39,041" }]
+  },
+  {
+    "stockCode": "3789",
+    "company": "Royal Deluxe Holdings Limited",
+    "classification": "Properties & Construction",
+    "emissionReport": { "2020": "―", "2021": "161.96" },
+    "companyInfo": {
+      "fulltime": "99",
+      "grossFloor": "3,158.85",
+      "revenue": "870.20"
+    },
+    "carbonFootprint": {
+      "base": "CFR03789-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR03789-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=9126"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "3889",
+    "company": "Global Sweeteners Holdings Ltd.",
+    "classification": "Materials",
+    "emissionReport": { "2020": "36,365", "2021": "5,252" },
+    "companyInfo": {
+      "fulltime": "925",
+      "grossFloor": "251,620",
+      "revenue": "728.1"
+    },
+    "carbonFootprint": {
+      "base": "CFR03889-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR03889-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7784"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "3899",
+    "company": "CIMC Enric Holdings Ltd.",
+    "classification": "Energy",
+    "emissionReport": { "2020": "107,923.35", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "9,900",
+      "grossFloor": "208,840.63",
+      "revenue": "13,813.16"
+    },
+    "carbonFootprint": {
+      "base": "CFR03899-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR03899-20-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7786"
+    },
+    "remark": "―"
+  },
+  {
+    "stockCode": "6823",
+    "company": "HKT Trust and HKT Ltd. - SS",
+    "classification": "Telecommunications",
+    "emissionReport": { "2020": "230,885", "2021": "191,924" },
+    "companyInfo": {
+      "fulltime": "10,263",
+      "grossFloor": "―",
+      "revenue": "33,961"
+    },
+    "carbonFootprint": {
+      "base": "CFR06823-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR06823-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7805"
+    },
+    "remark": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/6823_2021_remark.pdf"
+    },
+    "report": [
+      { "year": "2013", "tonnes": "234,999.9" },
+      { "year": "2014", "tonnes": "257,808" },
+      { "year": "2015", "tonnes": "262,953.2" },
+      { "year": "2016", "tonnes": "255,491.2" },
+      { "year": "2017", "tonnes": "248,497" },
+      { "year": "2018", "tonnes": "242,984" },
+      { "year": "2019", "tonnes": "235,368" }
+    ]
+  },
+  {
+    "stockCode": "6882",
+    "company": "EGL Holdings Company Limited",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "648.7", "2021": "1,078.97" },
+    "companyInfo": {
+      "fulltime": "242",
+      "grossFloor": "―",
+      "revenue": "44.578"
+    },
+    "carbonFootprint": {
+      "base": "CFR06882-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR06882-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=8420"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2017", "tonnes": "958" },
+      { "year": "2018", "tonnes": "980.7" },
+      { "year": "2019", "tonnes": "1,171.9" }
+    ]
+  },
+  {
+    "stockCode": "8092",
+    "company": "ITE (Holdings) Limited",
+    "classification": "Information Technology",
+    "emissionReport": { "2020": "162.53", "2021": "81.12" },
+    "companyInfo": {
+      "fulltime": "61.083",
+      "grossFloor": "1,215.3",
+      "revenue": "32.7"
+    },
+    "carbonFootprint": {
+      "base": "CFR08092-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR08092-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7876"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2014", "tonnes": "76.19" },
+      { "year": "2015", "tonnes": "74.72" },
+      { "year": "2016", "tonnes": "72.94" },
+      { "year": "2017", "tonnes": "38.47" },
+      { "year": "2018", "tonnes": "46.37" },
+      { "year": "2019", "tonnes": "218.48" }
+    ]
+  },
+  {
+    "stockCode": "8111",
+    "company": "China Technology Industry Group Limited",
+    "classification": "Industrials",
+    "emissionReport": { "2020": "13.23", "2021": "7.6" },
+    "companyInfo": {
+      "fulltime": "5",
+      "grossFloor": "146.79",
+      "revenue": "277"
+    },
+    "carbonFootprint": {
+      "base": "CFR08111-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR08111-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=7886"
+    },
+    "remark": "―",
+    "report": [
+      { "year": "2013", "tonnes": "20.7" },
+      { "year": "2014", "tonnes": "10.58" },
+      { "year": "2015", "tonnes": "15.4" },
+      { "year": "2016", "tonnes": "17" },
+      { "year": "2017", "tonnes": "14.34" },
+      { "year": "2018", "tonnes": "24.99" },
+      { "year": "2019", "tonnes": "11.55" }
+    ]
+  },
+  {
+    "stockCode": "8201",
+    "company": "PPS International (Holdings) Ltd.",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "―", "2021": "―" },
+    "companyInfo": { "fulltime": "817", "grossFloor": "—", "revenue": "5" },
+    "carbonFootprint": {
+      "base": "CFR08201-18-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR08201-18-1.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [
+      { "year": "2014", "tonnes": "13,204.04" },
+      { "year": "2015", "tonnes": "9,573.07" },
+      { "year": "2016", "tonnes": "4,086.77" },
+      { "year": "2017", "tonnes": "4,120.98" },
+      { "year": "2018", "tonnes": "3,113.9" }
+    ]
+  },
+  {
+    "stockCode": "8356",
+    "company": "CNC Holdings Limited",
+    "classification": "Consumer Discretionary",
+    "emissionReport": { "2020": "9.65", "2021": "―" },
+    "companyInfo": {
+      "fulltime": "13",
+      "grossFloor": "337",
+      "revenue": "6.2"
+    },
+    "carbonFootprint": {
+      "base": "CFR08356-20-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR08356-20-1.pdf"
+    },
+    "response": "―",
+    "remark": "―",
+    "report": [
+      { "year": "2012", "tonnes": "13.89" },
+      { "year": "2013", "tonnes": "51.88" },
+      { "year": "2014", "tonnes": "37.59" },
+      { "year": "2015", "tonnes": "39.85" },
+      { "year": "2016", "tonnes": "31.83" },
+      { "year": "2017", "tonnes": "20.07" },
+      { "year": "2018", "tonnes": "31.12" },
+      { "year": "2019", "tonnes": "13.72" }
+    ]
+  },
+  {
+    "stockCode": "8476",
+    "company": "Ocean One Holding Ltd.",
+    "classification": "Consumer Staples",
+    "emissionReport": { "2020": "1,439.82", "2021": "1,385.26" },
+    "companyInfo": {
+      "fulltime": "17",
+      "grossFloor": "2,269.61",
+      "revenue": "408.6"
+    },
+    "carbonFootprint": {
+      "base": "CFR08476-21-1",
+      "link": "https://www.carbon-footprint.hk/common/PDF/production/CFR08476-21-1.pdf"
+    },
+    "response": {
+      "base": "Link",
+      "link": "https://www.carbon-footprint.hk/externalLink.php?id=9058"
+    },
+    "remark": "―"
+  }
+]

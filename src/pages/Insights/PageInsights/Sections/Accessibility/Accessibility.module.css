@@ -1,0 +1,134 @@
+.cardContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 14px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+    background-color: white;
+    border-radius: 8px;
+    padding: 12px 0;
+}
+
+.cardHeading {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.heading {
+    color: #242424;
+    font-size: 26px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.subheading {
+    font-weight: 700;
+    color: #242424;
+    font-size: 2.375rem;
+    font-weight: 700;
+    line-height: 2.375rem;
+    letter-spacing: -0.31px;
+}
+
+.sublabel {
+    color: #828282;
+    letter-spacing: -0.109px;
+    margin-top: 0.5rem;
+}
+
+.secondSection {
+    background-color: white;
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    /*gap: 26px;*/
+    border-radius: 8px;
+    padding-bottom: 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    /* animation: fadeAndScale 1s ease-in-out forwards; */
+}
+
+@keyframes fadeAndScale {
+    0% {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    90% {
+        opacity: 0.6;
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.tableHeading {
+    background-color: var(--primary-green);
+    padding: 14.531px 25px;
+    color: white;
+    font-weight: 500;
+    display: grid;
+    grid-template-columns: 0.5fr 2fr;
+}
+
+.tableBody {
+    padding: 14.531px 25px;
+    display: grid;
+    grid-template-columns: 0.5fr 2fr;
+}
+
+.secondSectionContain {
+    display: grid;
+    gap: 13px;
+    grid-template-columns: 300px 1fr;
+}
+
+.chartContainer {
+    border: 1.23px solid var(--primary-green);
+    border-radius: 18.452px;
+    background: white;
+    box-shadow: 0px 4.9205px 24.60251px 0px rgba(0, 0, 0, 0.02);
+    padding: 0.5rem 1rem;
+}
+
+.table {
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 1.5rem;
+}
+
+@media (max-width: 1250px) {
+    .secondSectionContain {
+        grid-template-columns: 1fr;
+    }
+    .cardContainer {
+        grid-template-columns: 1fr 1fr;
+    }
+    .tableBody,
+    .tableHeading {
+        grid-template-columns: 0.5fr 1fr;
+    }
+}
+
+@media (max-width: 500px) {
+    .tableBody,
+    .tableHeading {
+        grid-template-columns: 1fr 1fr;
+    }
+    .secondSection {
+        padding: 0;
+    }
+}

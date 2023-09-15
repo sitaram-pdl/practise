@@ -1,0 +1,134 @@
+@import './default/breakpoint';
+
+.download-title {
+  margin-top: 129px;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 110%;
+  /* or 37px */
+
+  text-align: center;
+  letter-spacing: -0.04em;
+
+  color: #1b9876;
+}
+
+.card {
+  // max-width: 740px;
+  // padding: 0 92px;
+  background: #ffffff;
+  box-shadow: 0px -2px 41px rgba(0, 0, 0, 0.14);
+  border-radius: 15px;
+}
+
+.form-div {
+  // width: 555px;
+  width: 250px;
+  height: 43px;
+  background: #ececec !important;
+  border-radius: 30px !important;
+  border: none !important;
+  font-family: Poppins, sans-serif;
+  line-height: 100% !important;
+  padding: 2px 23px !important;
+
+  color: #37654e !important;
+  margin-top: 45px;
+}
+
+.button__signup {
+  width: fit-content !important;
+  padding: 9px 25px !important;
+
+  &:hover {
+    background: #1b9876 !important;
+  }
+}
+
+.mt-42 {
+  margin-top: 42px;
+}
+
+.header-info {
+  border-bottom: none;
+}
+
+.score-link {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 100%;
+  /* identical to box height, or 14px */
+
+  text-decoration-line: underline;
+
+  color: #1b9876;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.thankyou-content {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+
+  text-align: center;
+  letter-spacing: 0.005em;
+
+  color: #223333;
+}
+
+@include between-breakpoints(0px, 800px) {
+  .sm-screen {
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+
+  .sm-center {
+    justify-content: center !important;
+  }
+}
+
+@include breakpoint(mobile) {
+  .form-div {
+    width: 300px !important;
+  }
+
+  .form-card {
+    padding: 0 24px !important;
+  }
+
+  .download-title {
+    font-size: 60px !important;
+  }
+}
+
+@include breakpoint(tablet) {
+  .form-div {
+    width: 400px !important;
+  }
+
+  .form-card {
+    padding: 0 46px !important;
+  }
+
+  .download-title {
+    font-size: 70px !important;
+  }
+}
+
+@include breakpoint(tablet-medium) {
+  .form-div {
+    width: 555px !important;
+  }
+
+  .form-card {
+    padding: 0 92px !important;
+  }
+}

@@ -1,0 +1,127 @@
+@import '@/scss/default/loadanimation.scss';
+@import '@/scss/default/breakpoint';
+
+.content-container {
+  margin: 0 5rem 0 3rem !important;
+
+  @include breakpoint(tablet) {
+    margin: 0 6.9rem !important;
+  }
+}
+
+.loader-title {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.source:hover {
+  cursor: pointer;
+}
+
+.progress {
+  width: 400px;
+  height: 25px;
+}
+
+.cardbg {
+  background-color: rgba(63, 191, 123, 0) !important;
+}
+
+.loader {
+  // color: #1B9876;
+  margin: 15px auto;
+}
+
+.loading-css {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+
+  line-height: 100%;
+  /* or 45px */
+
+  text-align: center;
+  letter-spacing: -0.04em;
+
+  color: #ffffff;
+  font-size: 32px;
+
+  @include breakpoint(tablet) {
+    font-size: 45px !important;
+  }
+}
+
+.comma-css {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 90px;
+  line-height: 140%;
+  padding-left: 0.5rem;
+  letter-spacing: -0.04em;
+  color: #1b9876;
+  height: 70px;
+
+  @include breakpoint(tablet) {
+    font-size: 180px !important;
+    padding-left: 26px !important;
+    height: 133px !important;
+  }
+}
+
+.progress-content {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 140%;
+  /* or 39px */
+
+  letter-spacing: -0.04em;
+
+  color: #1b9876;
+
+  @include breakpoint(tablet) {
+    font-size: 24px !important;
+  }
+}
+
+.source-css {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 120%;
+  /* or 24px */
+
+  letter-spacing: 0.005em;
+
+  color: #1b9876;
+  margin-top: 18px !important;
+
+  font-size: 15px !important;
+
+  @include breakpoint(tablet) {
+    font-size: 20px !important;
+  }
+}
+
+.la-ball-pulse.la-2x > div {
+  width: 10px;
+  height: 10px;
+
+  @include breakpoint(tablet) {
+    width: 20px !important;
+    height: 20px !important;
+  }
+}
+
+.la-ball-pulse.la-2x {
+  height: 18px;
+
+  @include breakpoint(tablet) {
+    height: 36px !important;
+  }
+}

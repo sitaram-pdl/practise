@@ -1,0 +1,241 @@
+.cardContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1.2rem;
+    max-width: 75rem;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 12px 0;
+    transition: all 1s ease-in-out;
+    width: 100%;
+    padding: 1.25rem 0.5rem;
+    border-radius: 15px;
+    box-shadow: 0px 3.58353px 14.3341px 1.19451px rgba(0, 0, 0, 0.04);
+}
+
+.cardHeading {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    color: #242424;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.percentLabel {
+    color: #242424;
+    font-size: 20.602px;
+    font-weight: 700;
+    line-height: 26.1px;
+    letter-spacing: -0.18px;
+}
+
+.viewStat {
+    color: #828282;
+    font-size: 0.95rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    &.open {
+        color: var(--primary-green);
+    }
+}
+
+.secondSection {
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    border-radius: 8px;
+    // animation: fadeAndScale 1s ease-in-out forwards;
+    margin-top: 2rem;
+}
+
+.pdf-page .secondSection {
+    animation: none !important;
+}
+
+.heading {
+    color: #242424;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+}
+
+.performanceCardContainer {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+}
+
+.performanceCard {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 14px 1.5rem;
+    height: 6.5rem;
+    border-radius: 13.723px;
+    background-color: white;
+    border: 1.792px solid var(--primary-green);
+}
+
+.performanceCardBotText {
+    color: #828282;
+    font-size: 1rem;
+    letter-spacing: -0.077px;
+    margin-top: 0.2rem;
+}
+
+@keyframes fadeAndScale {
+    0% {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    90% {
+        opacity: 0.6;
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.tableHeading {
+    background-color: var(--primary-green);
+    padding: 1rem 2.5rem;
+    color: white;
+    font-weight: 500;
+}
+
+.table {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.unUsedError {
+    padding: 12px 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #d9d9d9;
+    border-bottom: unset;
+}
+
+.unUsedProgress {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    width: 100%;
+    max-width: 15rem;
+}
+
+.errorDesc {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.errorIcons {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    svg {
+        width: 100% !important;
+        height: 100% !important;
+    }
+}
+
+.panel {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    .logText {
+        color: #242424;
+        font-size: 0.875rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 17.745px;
+        letter-spacing: -0.122px;
+    }
+    .error {
+        color: #e3696a;
+    }
+}
+
+.errorContainer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.selectedTab {
+    border: 1px solid var(--primary-green);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+@media screen and (max-width: 1300px) {
+    .performanceCard {
+        gap: 0.75rem;
+        padding: 14px 1rem;
+    }
+}
+
+@media (max-width: 1150px) {
+    .performanceCardContainer {
+        grid-template-columns: 1fr 1fr;
+    }
+    .performanceCard {
+        gap: 1rem;
+        padding: 14px 1.5rem;
+    }
+}
+
+@media (max-width: 1100px) {
+    .cardContainer {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 500px) {
+    .cardContainer,
+    .performanceCardContainer {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .unUsedProgress {
+        max-width: 9rem;
+    }
+    .unUsedError {
+        padding: 12px 1rem;
+    }
+    .dash {
+        display: none;
+    }
+    .secondSection {
+        padding: 0;
+    }
+    .errorIcons,
+    .unUsedProgress {
+        display: none;
+    }
+}

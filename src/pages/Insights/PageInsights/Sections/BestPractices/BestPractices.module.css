@@ -1,0 +1,87 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    /* animation: fadeAndScale 1s ease-in-out forwards; */
+}
+
+.heading {
+    color: #242424;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+}
+
+.cardContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1.5rem;
+}
+
+@keyframes fadeAndScale {
+    0% {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    90% {
+        opacity: 0.6;
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.bpCard {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid var(--primary-green);
+    padding: 1.5rem 1rem;
+}
+
+.bpImg {
+    width: 100%;
+    height: 7.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &.full svg {
+        width: 100% !important;
+    }
+}
+
+.bpDescription {
+    width: 80%;
+    text-align: center;
+}
+
+.bpTitle {
+    width: 80%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+}
+
+@media screen and (max-width: 1400px) {
+    .cardContainer {
+        gap: 0.75rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    .cardContainer {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 500px) {
+    .cardContainer {
+        grid-template-columns: 1fr;
+    }
+}

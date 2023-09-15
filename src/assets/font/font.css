@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./SFPRODISPLAYMEDIUM.OTF') format('opentype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./SFPRODISPLAYBOLD.OTF') format('opentype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./SFPRODISPLAYHEAVYITALIC.OTF') format('opentype');
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./SFPRODISPLAYREGULAR.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./SFPRODISPLAYSEMIBOLDITALIC.OTF') format('opentype');
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./SFPRODISPLAYTHINITALIC.OTF') format('opentype');
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./SFPRODISPLAYULTRALIGHTITALIC.OTF') format('opentype');
+  font-style: italic;
+  font-weight: bold;
+}
+
+body {
+  font-family: 'CustomFont', sans-serif !important;
+  margin: 0;
+  padding: 0;
+}

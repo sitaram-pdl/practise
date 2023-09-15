@@ -1,0 +1,142 @@
+[
+  {
+    "category": "Utility",
+    "company": [
+      {
+        "name": "CLP Holdings Limited",
+        "site": "clpgroup.com",
+        "score": 11
+      },
+      {
+        "name": "The Hong Kong and China Gas Company Limited",
+        "site": "towngas.com",
+        "score": 1
+      },
+      {
+        "name": "Power Assets Holdings Limited",
+        "site": "powerassets.com",
+        "score": 1
+      },
+      {
+        "name": "CK Infrastructure Holdings Limited",
+        "site": "cki.com.hk",
+        "score": 95
+      },
+      {
+        "name": "Towngas Smart Energy Company Limited",
+        "site": "towngassmartenergy.com",
+        "score": 71
+      },
+      {
+        "name": "HK Electric Investments and HK Electric Investments Ltd.",
+        "site": "hkelectric.com",
+        "score": 71
+      }
+    ]
+  },
+  {
+    "category": "Properties and Construction",
+    "company": [
+      {
+        "name": "Hang Lung Group Limited",
+        "site": "hanglung.com",
+        "score": 1
+      },
+      {
+        "name": "Henderson Land Development Co. Ltd.",
+        "site": "henderson.com",
+        "score": 1
+      },
+      {
+        "name": "Link Real Estate Investment Trust",
+        "site": "linkreit.com",
+        "score": 24
+      },
+      {
+        "name": "The Wharf (Holdings) Limited",
+        "site": "wharfholdings.com",
+        "score": 22
+      },
+      {
+        "name": "New World Development Co. Ltd.",
+        "site": "nwd.com.hk",
+        "score": 17
+      },
+      {
+        "name": "Great Eagle Holdings Limited",
+        "site": "greaeagle.com",
+        "score": 17
+      }
+    ]
+  },
+  {
+    "category": "Financials",
+    "company": [
+      {
+        "name": "The Bank of East Asia, Limited",
+        "site": "hkbea.com",
+        "score": 53
+      },
+      {
+        "name": "HSBC Holdings plc",
+        "site": "hsbc.com",
+        "score": 72
+      },
+      {
+        "name": "Hang Seng Bank",
+        "site": "hangseng.com",
+        "score": 21
+      },
+      {
+        "name": "Hong Kong Exchanges and Clearing Limited",
+        "site": "hkex.com.hk",
+        "score": 17
+      },
+      {
+        "name": "Public Financial Holdings Ltd.",
+        "site": "publicfinance.com.hk",
+        "score": 19
+      },
+      {
+        "name": "Asia Financial Holdings Ltd",
+        "site": "asiafinancial.com",
+        "score": 28
+      }
+    ]
+  },
+  {
+    "category": "Consumer Discreationary",
+    "company": [
+      {
+        "name": "The Hongkong and Shanghai Hotels, Limited",
+        "site": "peninsula.com",
+        "score": 11
+      },
+      {
+        "name": "MTR Corporation",
+        "site": "mtr.com.hk",
+        "score": 29
+      },
+      {
+        "name": "Shangri-La Asia, Ltd ",
+        "site": "shangri-la.com",
+        "score": 57
+      },
+      {
+        "name": "Geely Automobile Holdings Ltd. ",
+        "site": "geely.com",
+        "score": 76
+      },
+      {
+        "name": "Sa Sa International Holdings Ltd",
+        "site": "sasa.com",
+        "score": 1
+      },
+      {
+        "name": "Melco International Development Limited",
+        "site": "melco-resorts.com",
+        "score": 26
+      }
+    ]
+  }
+]

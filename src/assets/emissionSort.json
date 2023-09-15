@@ -1,0 +1,5 @@
+[
+  { "label": "Stock Code", "value": "stockCode" },
+  { "label": "Company", "value": "company" },
+  { "label": "Classification", "value": "category" }
+]

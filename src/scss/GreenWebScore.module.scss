@@ -1,0 +1,130 @@
+@import './default/variables';
+@import './default/breakpoint';
+
+.card-detail {
+  max-width: 62.2rem;
+}
+
+.green-bg {
+  background: $green-gradient;
+}
+
+.orange-bg {
+  background: $orange-gradient;
+}
+
+.red-bg {
+  background: $red-gradient;
+}
+
+.form-control::placeholder {
+  text-align: center;
+}
+
+.header {
+  margin: 0px;
+  margin-top: -20px;
+}
+
+.score-content {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  // line-height: 120%;
+  /* or 24px */
+
+  text-align: center;
+  letter-spacing: 0.005em;
+
+  color: #ffffff;
+}
+
+.result-url {
+  font-size: 16px;
+  line-height: 120%;
+
+  @include breakpoint(tablet) {
+    font-size: 20px !important;
+  }
+}
+
+.green-score-title {
+  font-size: 60px;
+  line-height: 100%;
+
+  @include breakpoint(tablet) {
+    font-size: 70px !important;
+  }
+}
+
+.green-score {
+  font-size: 95px;
+  line-height: 100%;
+  margin-top: 25px;
+
+  @include breakpoint(tablet) {
+    font-size: 120px !important;
+    margin-top: 33px !important;
+  }
+}
+
+.green-score-result {
+  font-size: 21px;
+  line-height: 1.5;
+  margin-top: 25px;
+
+  @include breakpoint(tablet) {
+    font-size: 28px !important;
+    margin-top: 40px !important;
+  }
+}
+
+.url-detail {
+  font-size: 1rem;
+  line-height: 120%;
+  margin-top: 57px !important;
+}
+
+.co2-score {
+  font-size: 40px;
+  line-height: 1.5;
+
+  @include breakpoint(tablet) {
+    font-size: 80px !important;
+  }
+}
+
+.co2-res {
+  font-size: 13px;
+  line-height: 1.5;
+
+  @include breakpoint(tablet) {
+    font-size: 24px !important;
+  }
+}
+
+.cmn-content {
+  font-size: 13px;
+  line-height: 1.5;
+
+  @include breakpoint(tablet) {
+    font-size: 24px !important;
+    line-height: 1.5 !important;
+  }
+}
+
+.cmn-score {
+  font-size: 29px;
+  line-height: 100%;
+
+  @include breakpoint(tablet) {
+    font-size: 45px !important;
+  }
+}
+
+@include breakpoint(tablet) {
+  .header {
+    margin: 0px !important;
+  }
+}

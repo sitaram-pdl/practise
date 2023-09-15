@@ -1,0 +1,79 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.topHeading {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.heading {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.tableContainer {
+  width: 100%;
+  background-color: white;
+  overflow: hidden;
+  border: 1px solid var(--primary-green);
+  border-radius: 8px;
+}
+
+.tableHeading {
+  display: grid;
+  grid-template-columns: 1fr 2fr 0.3fr;
+  background-color: var(--primary-green);
+  color: white;
+  font-weight: 500;
+  padding: 10px 0;
+}
+
+.tableBody {
+  display: grid;
+  grid-template-columns: 1fr 2fr 0.3fr;
+  font-weight: 500;
+  padding: 10px 0;
+}
+
+.tableHeading > div {
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.tableBody > div {
+  padding: 5px 10px;
+  margin-left: 10px;
+}
+
+.bgGrey {
+  background-color: rgba(128, 128, 128, 0.22);
+}
+
+.companyName {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.appPrimaryButton {
+  border: 1px solid var(--primary-green);
+  width: fit-content !important;
+}
+
+.customButtonWrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  .iconWrapper {
+    svg {
+      height: 14px;
+    }
+  }
+  label {
+    font-size: 14px;
+    color: var(--primary-green);
+  }
+}

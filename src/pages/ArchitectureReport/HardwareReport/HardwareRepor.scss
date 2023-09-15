@@ -1,0 +1,51 @@
+.progressWrapper .ant-progress-bg,
+.progressWrapper .ant-progress-outer {
+  height: 13px !important;
+}
+
+.progressContainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.softwareReport {
+  height: unset;
+}
+
+@media screen and (max-width: 1300px) {
+  .progressWrapper .ant-progress-bg,
+  .progressWrapper .ant-progress-outer {
+    height: 8px !important;
+  }
+}
+
+@media screen and (min-width: 751px) {
+  .softwareReportCopy {
+    display: none;
+  }
+
+  .progressContainer {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .softwareReport {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .softwareReportCopy {
+    display: none;
+  }
+
+  .progressContainer {
+    display: block;
+  }
+
+  .softwareReport {
+    display: flex;
+  }
+}

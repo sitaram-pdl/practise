@@ -1,0 +1,97 @@
+@import '@/scss/default/variables';
+@import '@/scss/default/breakpoint';
+
+@mixin header-line($color) {
+  display: flex;
+  height: 1px;
+  color: $color;
+  opacity: 1;
+}
+
+.top {
+  position: relative;
+}
+
+.link-content {
+  padding: 5px;
+  color: black !important;
+  &__dark {
+    padding: 5px;
+    font-family: 'Poppins', sans-serif !important;
+    color: black !important;
+  }
+}
+
+.nav-content {
+  padding: 20px;
+}
+
+.header-line {
+  @include header-line(#ffffff);
+  display: none;
+
+  &__dark {
+    @include header-line(#ffffff);
+    display: none;
+  }
+}
+
+.top-right {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+}
+
+.icons {
+  color: black;
+  font-size: 33px;
+  padding-top: 20px;
+}
+
+.logo:hover {
+  cursor: pointer;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #a3c2c2 !important;
+}
+
+.nav-item {
+  text-align: center;
+}
+
+@include breakpoint(tablet-medium) {
+  .top {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+  }
+
+  .link-content {
+    padding: 0px;
+    color: #ffffff !important;
+
+    &__dark {
+      color: #1b9876 !important;
+    }
+  }
+
+  .header-line {
+    @include header-line(#ffffff);
+
+    &__dark {
+      @include header-line(#1b9876);
+    }
+  }
+}
+
+@include breakpoint(tablet) {
+  .green-link {
+    color: #1b9876;
+  }
+
+  .nav-content {
+    padding: 0px;
+  }
+}

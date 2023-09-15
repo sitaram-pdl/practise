@@ -1,0 +1,75 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 70vh;
+}
+
+.heading {
+  color: #242424;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.cardContainer {
+  padding: 15px 0;
+  display: grid;
+
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1rem;
+}
+
+.frameworkCard {
+  width: 100%;
+  height: 100%;
+  min-height: 130px;
+  padding: 15px 0 10px 0;
+  background: #fff;
+  border-radius: 15px;
+  border: 1px solid #1b9876;
+  box-shadow: 0px 3.5835254192352295px 14.334101676940918px 1.1945085525512695px
+    #0000000a;
+}
+
+.frameworkCardContent {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+
+  img {
+    height: 70px;
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 1745px) {
+  .cardContainer {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .cardContainer {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .cardContainer {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .cardContainer {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .cardContainer {
+    grid-template-columns: 1fr;
+  }
+}

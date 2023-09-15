@@ -1,0 +1,19 @@
+.appPrimaryButton {
+  top: 60px;
+  border: 1px solid var(--primary-green);
+
+  &:focus,
+  &:hover {
+    border: 1px solid var(--primary-green);
+  }
+}
+.customButtonWrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  label {
+    font-size: 14px;
+    color: var(--primary-green);
+  }
+}
